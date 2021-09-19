@@ -6,4 +6,4 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=siixty&color=grey">
 </p>
-  [![Join my Discord Server!](https://invidget.switchblade.xyz/6xEvaPgEhu)](https://discord.gg/6xEvaPgEhu)
+
