@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-bobi)](https://git.io/streak-stats)
 </p>
 <p align="center">
 <p align="center">  
