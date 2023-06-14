@@ -1,8 +1,8 @@
 <img src = "header.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bobi&label=Profile%20views&color=0e75b6&style=flat" alt="m-bobi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m-bobi&label=Profile%20views&color=0e75b6&style=flat" alt="m-bobi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bobi" alt="m-bobi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bobi" alt="m-bobi" /></a> </p>
 
 - 🔭 I’m currently working on [MCoffee Shop](https://github.com/m-bobi/CoffeeShop)
 
