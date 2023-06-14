@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=m-bobi&theme=onedark&row=2&column=3" alt="m-bobi" /></a> </p>
 
-<p align="center"> - 🔭 I’m currently working on [MCoffee Shop](https://github.com/m-bobi/CoffeeShop)</p>
+<p align="center"> - 🔭 I’m currently working on <a href="https://github.com/m-bobi/CoffeeShop">MCoffee Shop</p>
 
 - 🌱 I’m currently learning **JS Frameworks, Java, Unity**
 
