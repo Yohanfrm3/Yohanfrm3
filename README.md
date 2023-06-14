@@ -1,5 +1,5 @@
 <p align="center">  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melos)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-bobi&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 </p>
 <p align="center">
 <p align="center">  
