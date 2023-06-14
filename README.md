@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://codepen.io/m-bobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-bobi" height="30" width="40" /></a>
 <a href="https://dev.to/m-bobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="m-bobi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melos bobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melos bobi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melos-bobi-128512256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melos bobi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14158211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14158211" height="30" width="40" /></a>
 <a href="https://codesandbox.com/m-bobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="m-bobi" height="30" width="40" /></a>
 </p>
