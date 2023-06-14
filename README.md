@@ -6,7 +6,7 @@
 
 <p align="center"> - 🔭 I’m currently working on <a href="https://github.com/m-bobi/CoffeeShop">MCoffee Shop</p>
 
-<p align="center"> - 🌱 I’m currently learning **JS Frameworks, Java, Unity** </p>
+<p align="center"> - 🌱 I’m currently learning <strong>JS Frameworks, Java, Unity</strong> </p>
 
 <p align="center"> - 👨‍💻 All of my projects are available at <a href="m-bobi.github.io">m-bobi.github.io</p>
 
