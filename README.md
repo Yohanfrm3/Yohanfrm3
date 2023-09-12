@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=m-bobi&theme=onedark&row=2&column=3" alt="m-bobi" /></a> </p>
 
-<p align="center"> - 👨‍💻 All of my projects are available at <a href="m-bobi.github.io">m-bobi.github.io</p>
+<p align="center"> - 👨‍💻 All of my projects are available at <a href="https://www.m-bobi.github.io">m-bobi.github.io</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
